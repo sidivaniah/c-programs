@@ -1,3 +1,5 @@
+/* ct101/s/35312/26
+muriithi sidivaniah*/
 #include<iostream>
 using namespace std;
 int main(){
