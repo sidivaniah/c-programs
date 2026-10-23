@@ -1,6 +1,9 @@
+/* ct101/s/35312/26
+sidivaniah nyakio muriithi*/
 #include <iostream>
 using namespace std;
 int main (){
+    //declaring variables
 int number1;
 int number2;
 float result;
